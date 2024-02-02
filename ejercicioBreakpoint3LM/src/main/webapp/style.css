@@ -2,37 +2,25 @@
 
 .header{
 	background-color: greenyellow;
-	border: 1px solid;
-	height: 2rem;
 }
 
 .cubosAzules{
-	background-color: darkmagenta;
-	border: 1px solid;
-	height: 9rem;
+	background-color: blue;
 }
 
 .cubosGrises{
 	background-color: lightgrey;
-	border: 1px solid;
-	height: 9rem;
 }
 
 .caras{
 	background-color: orange;
-	border: 1px solid;
-	height: 5rem;
 }
 
 .footer{
 	background-color: greenyellow;
-	border: 1px solid;
-	height: 2rem;
 }
 
 .bloqueDisp{
 	background-color: skyblue;
-	height: 4rem;
-	border: 1px solid;
 }
 
